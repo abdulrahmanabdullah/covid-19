@@ -4,7 +4,7 @@
 
 ## Get started :
 
-- clone project from [here]()
+- clone project from [here](https://github.com/abdulrahmanabdullah/covid-19.git)
 - cd to covid-19 folder then write this command :
   `npm install`
 - After all dependices installed successfully, entry this command :
@@ -19,4 +19,4 @@
 
 ## Live demo : 🔗🔗
 
-[here](http://links.com)
+[here](https://quirky-lichterman-26e7cd.netlify.app/)
